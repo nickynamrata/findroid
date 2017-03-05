@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinDroidSettings</string>
+    <string name="action_settings">Settings</string>
+    <string name="LocationCode">Set your code to get location</string>
+    <string name="LocationCodeDesc">This code will be use to get Latitude and Longitude of your device</string>
+    <string name="ToggleDesc">When enabled, this will give your device admin permission</string>
+
+    <string name="device_admin_enabled">Admin Enabled</string>
+    <string name="device_admin_disabled">Admin disabled</string>
+    <string name="alert_string">now you can download the main FinDroid app and can easily get your phone back if unfortunately stolen. </string>
+    
+</resources>
